@@ -1,4 +1,4 @@
-# CSL8023  Applied Data Science Lab
+# CSL8023_Applied Data Science Lab
 ## Lab Objectives:
 1. To explore various stages in the data science lifecycle.
 
